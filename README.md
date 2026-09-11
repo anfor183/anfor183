@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0b0f19,022c22,0f766e,06b6d4,3b82f6&height=230&section=header&text=FORTUNE%20ANUKPOSI&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Quantitative%20Systems%20Architect%20%7C%20Algorithmic%20Trading%20Engineer&descFontSize=17&descAlignY=68" width="100%" alt="Fortune Anukposi Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0b0f19,022c22,0f766e,06b6d4,3b82f6&height=220&section=header&text=FORTUNE%20ANUKPOSI&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Self-Taught%20Developer%20%7C%20Algo%20Trading%20%26%20Automation%20Builder&descFontSize=16&descAlignY=68" width="100%" alt="Fortune Anukposi Banner" />
 
 <!-- ANIMATED TYPING SUBHEADER -->
 <a href="https://github.com/anfor183">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Quantitative+Systems+Architect+%26+Algorithmic+Trader;Institutional+MT5+%26+Prop-Firm+Risk+Governor+Developer;Autonomous+Stealth+Puppeteer+%26+Browser+Automation+Architect;Zero-Lookahead+Macro+Fundamental+Intelligence+Engine;Full-Stack+Engineering+%7C+Python+%E2%80%A2+MQL5+%E2%80%A2+Node.js+%E2%80%A2+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Self-Taught+Developer+%26+AI-Augmented+Builder;Algorithmic+Trading+%26+MT5%2FMQL5+Strategy+Developer;Stealth+Puppeteer+Automation+%26+Web+Scraping;Python+%E2%80%A2+MQL5+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Open+to+Junior+%2F+Entry-Level+Roles+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,19 +13,16 @@
 <!-- SOCIAL QUICK PINS & BADGES -->
 <p align="center">
   <a href="mailto:fortuneanukposi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-00f5d4?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-00f5d4?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="https://github.com/anfor183">
     <img src="https://img.shields.io/badge/GitHub-anfor183-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/anfor183?tab=repositories">
-    <img src="https://img.shields.io/badge/Architecture-Institutional%20Quant-6366f1?style=for-the-badge&logo=codefactor&logoColor=white" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Focus-AI--Augmented%20Building-6366f1?style=for-the-badge&logo=sparkles&logoColor=white" alt="Focus" />
   </a>
-  <a href="https://github.com/anfor183">
-    <img src="https://img.shields.io/badge/Automation-Stealth%20Puppeteer-38bdf8?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Automation" />
-  </a>
-  <a href="https://github.com/anfor183">
-    <img src="https://img.shields.io/badge/Status-Building%20Alpha-10b981?style=for-the-badge&logo=databricks&logoColor=white" alt="Status" />
+  <a href="mailto:fortuneanukposi@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Junior%20Roles-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
   </a>
 </p>
 
@@ -33,20 +30,29 @@
 
 ---
 
-### 🏛️ Executive Summary & Engineering Philosophy
+### 👋 About Me & My Journey
 
-I design and engineer **institutional-grade quantitative trading architectures, prop-firm risk execution systems, autonomous stealth Puppeteer automation pipelines, and macroeconomic market-bias intelligence engines**. 
+Hi, I'm **Fortune Anukposi**! I am a **self-taught, builder-minded developer** with a strong passion for **algorithmic trading, browser automation, and full-stack software development**.
 
-My engineering core operates at the intersection of **systematic alpha generation**, **strict deterministic risk rails**, and **anti-detection web automation**:
+I haven't worked at a traditional tech company yet—instead, I’ve taken a proactive, hands-on path: building practical, complex personal projects from scratch, experimenting with trading strategies, and learning how modern systems work from the inside out.
 
-- 🛡️ **Mathematical Risk Rails Over Speculation**: Every algorithmic trading system is governed by central, thread-safe risk controllers enforcing hard daily circuit breakers, maximum drawdown caps, down-rounded lot precision, and automated broker rollover session guards.
-- 🌐 **Automated Fundamental Intelligence**: Building zero-lookahead macroeconomic intelligence terminals that decompose 14 dimensions of macroeconomic data (Z-Score surprises, monetary policy shifts, real yields, terms-of-trade) across 50 global financial assets with zero hallucination.
-- 🤖 **Autonomous Stealth Puppeteer Automation**: Engineering high-fidelity browser automation suites with anti-fingerprint injection (`fp-script`), WebGL/Canvas spoofing, human Bézier curve mouse trajectories, dynamic residential proxy failover routing, and modern **Electron + React** desktop command centers.
-- ⚡ **Native Execution & Low Latency**: Specializing in native **MQL5 for MetaTrader 5** with multi-symbol portfolio execution, tick-data backtesting, and full-stack integration via **FastAPI, React 18, TypeScript, Node.js, and Docker**.
+- 🛠️ **AI-Augmented Solo Builder**: I actively embrace modern AI engineering tools (like LLM pair-programmers and code generation) to accelerate my learning, architect systems, and build ambitious software solo that would otherwise require entire teams.
+- 📈 **Trading & Financial Systems**: Deeply interested in quantitative trading, technical/fundamental analysis, and risk management. I've designed and backtested automated Expert Advisors (EAs) in native **MQL5 for MetaTrader 5** with strict drawdown protections.
+- 🤖 **Web Automation & Stealth Scraping**: Built high-concurrency browser automation pipelines using **Puppeteer**, experimenting with anti-fingerprint techniques (`fp-script`), human behavior modeling, and desktop management GUIs.
+- 🚀 **Always Learning & Shipping**: Currently exploring Python data pipelines, FastAPI microservices, and modern React/TypeScript frontends.
 
 ---
 
-### 📊 Real-Time GitHub Engineering Pulse
+### 💡 My Approach to Building (AI-Augmented Development)
+
+Rather than passively following tutorials, I build real software using a modern workflow:
+1. **Domain Research & Architecture First**: I define the problem, logic, and safety guardrails (e.g., prop-firm drawdown rules, stealth browser fingerprint masking, or macroeconomic surprise indicators).
+2. **AI-Accelerated Implementation**: I direct AI assistants to generate clean, modular code, scaffold APIs, and help write complex algorithms.
+3. **Rigorous Testing & Debugging**: I personally audit the logic, test binaries in MetaTrader / Node / Python, fix edge cases, and verify execution in real-world scenarios.
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <p align="center">
@@ -71,105 +77,86 @@ My engineering core operates at the intersection of **systematic alpha generatio
 
 ---
 
-### 🚀 Flagship Quantitative & Automation Architectures
+### 🚀 Featured Personal Projects & Explorations
 
 <table>
-  <!-- ROW 1: QUANT MACRO TERMINAL & INSTITUTIONAL EA -->
+  <!-- ROW 1: MACRO TERMINAL & PROPER EA -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🌐 Macro Fundamental Intelligence Terminal</h3>
-      <p><b>Automated Macro-Fundamental Intelligence & Market-Bias Engine for Global Assets</b></p>
+      <p><b>Automated Macro Intelligence & Market-Bias Engine for 50 Global Assets</b></p>
       <p>
         <a href="https://github.com/anfor183/macro-fundamental-intelligence-terminal">
-          <img src="https://img.shields.io/badge/Repo-Macro%20Terminal-00f5d4?style=flat-square&logo=github" />
+          <img src="https://img.shields.io/badge/Personal%20Project-Macro%20Terminal-00f5d4?style=flat-square&logo=github" />
         </a>
-        <img src="https://img.shields.io/badge/Coverage-50%20Assets-3b82f6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Compliance-Zero%20Lookahead-emerald?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tests-105%20Passing-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3.12-3b82f6?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-React%2018-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-Compose-2496ed?style=flat-square" />
       </p>
       <ul>
-        <li><b>Asset Universe:</b> 28 Forex Majors & Crosses, 11 Global Indices (SPX, NDX, DAX, FTSE), Precious Metals (Gold, Silver, Platinum), and Energy (WTI, Brent, NatGas).</li>
-        <li><b>14-Dimension Factor Pipeline:</b> Monetary policy stance, inflation surprises, real yield differentials, growth momentum, and terms-of-trade linkages.</li>
-        <li><b>Quant Scoring Matrix:</b> Normalized -100 to +100 directional bias scale with statistical confidence ratings and contradiction penalties.</li>
-        <li><b>Stack:</b> Python 3.12 • FastAPI • React 18 • TypeScript • TailwindCSS • Docker Compose.</li>
+        <li><b>What it does:</b> Synthesizes macroeconomic indicators (inflation, central bank policies, real yields, economic calendar prints) into a unified -100 to +100 directional bias score.</li>
+        <li><b>Key Experiment:</b> Implemented a 14-dimension macro factor decomposition to test how economic surprise prints affect currency and commodity trends without lookahead bias.</li>
+        <li><b>Stack:</b> Python 3.12, FastAPI, React 18, TypeScript, TailwindCSS, Docker.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">📈 Institutional Prop-Firm Portfolio EA (MT5)</h3>
-      <p><b>Multi-Market Prop-Firm & Personal Portfolio Expert Advisor with Zero-Drawdown Breach Rails</b></p>
+      <h3 align="left">📈 Proper-EA-Dream Prop-Firm Portfolio (MT5)</h3>
+      <p><b>Automated Multi-Asset Trading System Built for Prop Firm Challenge Rules</b></p>
       <p>
         <a href="https://github.com/anfor183/Proper-EA-Dream-PropFirm-Portfolio">
-          <img src="https://img.shields.io/badge/Repo-Proper%20EA%20Dream-00f5d4?style=flat-square&logo=github" />
+          <img src="https://img.shields.io/badge/Personal%20Project-Proper%20EA-00f5d4?style=flat-square&logo=github" />
         </a>
         <img src="https://img.shields.io/badge/Platform-MetaTrader%205-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Compliance-FTMO%20%7C%20FundedNext-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Language-MQL5-blue?style=flat-square" />
       </p>
       <ul>
-        <li><b>Simultaneous 4-Asset Engine:</b> Trades <code>XAUUSD (Gold)</code>, <code>NAS100</code>, <code>USA500</code>, and <code>GBPUSD</code> simultaneously within one coordinated process.</li>
-        <li><b>Dual Operating Architecture:</b>
+        <li><b>What it does:</b> A multi-market trading robot for MetaTrader 5 designed to respect strict daily drawdown and lifetime loss limits (inspired by FTMO and FundedNext rules).</li>
+        <li><b>Key Features:</b>
           <ul>
-            <li><i>Prop Firm Mode:</i> Strict daily drawdown circuit breakers, trailing risk gates, and minimum trade duration filters.</li>
-            <li><i>Personal Freedom Mode:</i> Uncapped compounding, custom risk scaling (0.10% to 5.0%), and fixed-lot operations.</li>
+            <li>Simultaneous execution across <code>XAUUSD (Gold)</code>, <code>NAS100</code>, <code>USA500</code>, and <code>GBPUSD</code>.</li>
+            <li>Automated broker session detection (London/New York Open timing).</li>
+            <li>Built-in emergency circuit breaker and on-chart diagnostic dashboard.</li>
           </ul>
         </li>
-        <li><b>Auto Broker Session Detection:</b> Dynamically detects UTC server offsets, London Cash Open, New York Open, and rollover liquidity deadzones.</li>
-        <li><b>Visual On-Chart HUD:</b> 6-panel real-time diagnostic dashboard rendering equity, risk states, active sessions, and active positions.</li>
       </ul>
     </td>
   </tr>
 
-  <!-- ROW 2: PUPPETEER STEALTH APP & TRIPLE-EA SUITE -->
+  <!-- ROW 2: PUPPETEER & TRIPLE EA -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 Autonomous Stealth Puppeteer Automation & Control Center</h3>
-      <p><b>High-Fidelity Anti-Detection Browser Automation Suite with Electron Desktop Dashboard</b></p>
+      <h3 align="left">🤖 Autonomous Stealth Puppeteer Automation & Dashboard</h3>
+      <p><b>Browser Automation Framework with Anti-Detection & Desktop GUI</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Engine-Puppeteer%20Core-00f5d4?style=flat-square&logo=puppeteer" />
-        <img src="https://img.shields.io/badge/GUI-Electron%2029%20%2B%20React%2018-61dafb?style=flat-square&logo=electron" />
-        <img src="https://img.shields.io/badge/Stealth-Anti--Fingerprint%20Engine-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Network-Residential%20Proxy%20Pool-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engine-Puppeteer-00f5d4?style=flat-square&logo=puppeteer" />
+        <img src="https://img.shields.io/badge/Desktop-Electron%20%2B%20React-61dafb?style=flat-square&logo=electron" />
+        <img src="https://img.shields.io/badge/Node.js-Automation-339933?style=flat-square" />
       </p>
       <ul>
-        <li><b>Anti-Detection & Fingerprint Spoofing (<code>fp-script.js</code>):</b> Dynamic overrides for Canvas, WebGL vendor/renderer masking, AudioContext jitter, Navigator permissions, and hardware concurrency normalization.</li>
-        <li><b>Humanized Behavioral Heuristics:</b>
+        <li><b>What it does:</b> A modular Node.js browser automation suite capable of navigating web applications while avoiding automated bot detection.</li>
+        <li><b>Techniques Explored:</b>
           <ul>
-            <li>Natural mouse dynamics with randomized Bézier trajectory curves and overshoot corrections.</li>
-            <li>Realistic scroll mechanics with inertia physics and variable micro-pause reading delays.</li>
-            <li>Simulated typing cadence with probabilistic keystroke latencies and human dwell intervals.</li>
+            <li>Anti-fingerprinting scripts (`fp-script.js`) spoofing Canvas, WebGL, and AudioContext signatures.</li>
+            <li>Humanized mouse movements using Bézier curve trajectories and randomized dwell times.</li>
+            <li>Dynamic residential proxy pool management and failover testing.</li>
+            <li>Packaged with an **Electron 29 + React** desktop dashboard to monitor active bots and proxies.</li>
           </ul>
         </li>
-        <li><b>Multi-Vector Organic Journey Engines:</b>
-          <ul>
-            <li><code>human_google_search.js</code>: Natural keyword exploration, SERP interaction, and organic click traversal.</li>
-            <li><code>human_youtube_search.js</code>: Organic video discovery, engagement simulations, and automated ad interaction control.</li>
-            <li><code>human_article_search.js</code>: In-depth reading and dwell-time emulation across multi-page articles.</li>
-            <li><code>human_gmail_journey.js</code>: Continuous authentication and session lifecycle management.</li>
-          </ul>
-        </li>
-        <li><b>Desktop Control Command (<code>bot-dashboard</code>):</b> Built with Electron 29, Vite 5, React 18, and TailwindCSS for real-time task management, proxy latency diagnostics, and multi-process lifecycle controls.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ Triple-EA Quantitative Trading Suite</h3>
-      <p><b>Multi-Strategy Quantitative Portfolio with Central Institutional Risk Governor</b></p>
+      <h3 align="left">⚡ Triple-EA Multi-Strategy Portfolio</h3>
+      <p><b>Multi-Strategy Trading Suite with Central Risk Controller</b></p>
       <p>
         <a href="https://github.com/anfor183/Triple-EA-PropFirm-Portfolio">
-          <img src="https://img.shields.io/badge/Repo-Triple--EA-00f5d4?style=flat-square&logo=github" />
+          <img src="https://img.shields.io/badge/Personal%20Project-Triple%20EA-00f5d4?style=flat-square&logo=github" />
         </a>
-        <img src="https://img.shields.io/badge/Backtest-12.6%20Years%20Tick-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Risk%20Governor-Thread--Safe-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Language-MQL5-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/MT5-Backtested-green?style=flat-square" />
       </p>
       <ul>
-        <li><b>Orthogonal 3-Strategy Matrix:</b>
-          <ol>
-            <li><code>GOARB_EA</code>: Daily Opening Wick Arbitrage with 50 EMA Macro Trend Filter on <b>US500</b>.</li>
-            <li><code>Breaker_EA_US500</code>: Donchian 20-Bar Momentum Breakout with Dynamic Trailing Stop.</li>
-            <li><code>Breaker_EA_USDJPY</code>: Multi-Timeframe FX Volatility Breakout on <b>USDJPY</b>.</li>
-          </ol>
-        </li>
-        <li><b>Central Risk Manager (<code>PortfolioRiskManager.mqh</code>):</b> Thread-safe lot sizing, 1.50% max concurrent open risk ceiling, and a 3.00% daily hard emergency kill-switch.</li>
-        <li><b>Execution Resilience:</b> Automatic filling mode fallback (<code>FOK &rarr; IOC &rarr; RETURN</code>) with exponential backoff retries.</li>
+        <li><b>What it does:</b> Coordinates three distinct strategies (US500 Donchian Breakout, Opening Wick Arbitrage, and USDJPY FX Volatility) under a shared risk manager (`PortfolioRiskManager.mqh`).</li>
+        <li><b>Core Focus:</b> Centralized position sizing, a strict 1.5% concurrent risk cap, and order filling fallback logic (`FOK &rarr; IOC &rarr; RETURN`).</li>
       </ul>
     </td>
   </tr>
@@ -177,32 +164,30 @@ My engineering core operates at the intersection of **systematic alpha generatio
   <!-- ROW 3: SOFT4X SIMULATOR & VIDMAXX -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🧪 Soft4X Forex Simulator & SMC Engine</h3>
-      <p><b>High-Fidelity Offline Backtesting Simulator with Smart Money Concepts Detection</b></p>
+      <h3 align="left">🧪 Soft4X Forex Simulator & SMC Detector</h3>
+      <p><b>Offline Forex Testing Simulator with Smart Money Concepts Logic</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Module-SMC%20Detector-00f5d4?style=flat-square" />
-        <img src="https://img.shields.io/badge/GUI-PyQt6%20%7C%20PyQtGraph-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Engine-Event--Driven-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Language-Python%203-3776ab?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/GUI-PyQt6-41cd52?style=flat-square" />
+        <img src="https://img.shields.io/badge/Concept-Smart%20Money-yellow?style=flat-square" />
       </p>
       <ul>
-        <li><b>Institutional Price Action Recognition:</b> Real-time algorithmic detection of Order Blocks (OB), Fair Value Gaps (FVG), Market Structure Breaks (BOS/CHoCH), and Liquidity Sweeps (EQH/EQL).</li>
-        <li><b>Tick-Accurate Simulation:</b> Variable spread simulation, commission modeling, and multi-timeframe synchronization (M1 through W1).</li>
-        <li><b>Templating & State Management:</b> Serialization of complex chart setups, custom indicator parameters, and instant session restore.</li>
+        <li><b>What it does:</b> A desktop market simulator built in Python and PyQt6 for testing trading setups tick-by-tick.</li>
+        <li><b>Algorithmic Highlights:</b> Built an automated detection engine for institutional price action: Order Blocks (OB), Fair Value Gaps (FVG), Market Structure Breaks (BOS/CHoCH), and Liquidity Sweeps.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🎥 VidMaxx AI Video Generator & Scheduler</h3>
-      <p><b>Autonomous AI Video Generation, Orchestration, and Multi-Platform Publishing Pipeline</b></p>
+      <h3 align="left">🎥 VidMaxx AI Video Scheduler</h3>
+      <p><b>AI Content Generation & Automation Pipeline</b></p>
       <p>
         <a href="https://github.com/anfor183/vidmaxx-ai-video-generator-scheduler">
-          <img src="https://img.shields.io/badge/Repo-VidMaxx-00f5d4?style=flat-square&logo=github" />
+          <img src="https://img.shields.io/badge/Personal%20Project-VidMaxx-00f5d4?style=flat-square&logo=github" />
         </a>
-        <img src="https://img.shields.io/badge/Frontend-Next.js%20%2F%20Tailwind-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/Backend-Supabase-emerald?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Next.js%20%2B%20Supabase-black?style=flat-square" />
       </p>
       <ul>
-        <li><b>AI Pipeline Orchestration:</b> Automated script synthesis, asset rendering, voice synchronization, and social publishing schedules.</li>
-        <li><b>Modern Cloud Architecture:</b> Built with Next.js, TypeScript, TailwindCSS, and Supabase relational state management.</li>
+        <li><b>What it does:</b> Exploring automated content workflows, connecting generative AI prompts, scheduling databases, and publishing pipelines.</li>
+        <li><b>Stack:</b> Next.js, TypeScript, TailwindCSS, and Supabase.</li>
       </ul>
     </td>
   </tr>
@@ -210,148 +195,82 @@ My engineering core operates at the intersection of **systematic alpha generatio
 
 ---
 
-### ⚙️ Full-Stack Quantitative & Automation Technology Stack
+### 🛠️ Technologies & Tools I Work With
 
 <table width="100%">
   <tr>
-    <th align="left" width="25%">Domain</th>
-    <th align="left" width="75%">Technologies, Frameworks & Libraries</th>
+    <th align="left" width="28%">Category</th>
+    <th align="left" width="72%">Technologies & Frameworks</th>
   </tr>
   <tr>
-    <td><b>Algorithmic & Quantitative</b></td>
+    <td><b>Trading & Algorithmic</b></td>
     <td>
       <img src="https://img.shields.io/badge/MQL5-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/MetaTrader_5-FF8000?style=flat-square&logo=tradingview&logoColor=white" />
       <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tick_Data_Modeling-10b981?style=flat-square" />
-      <img src="https://img.shields.io/badge/SMC_Algorithms-6366f1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Strategy_Backtesting-10b981?style=flat-square" />
+      <img src="https://img.shields.io/badge/Risk_Management_Rails-6366f1?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td><b>Browser Automation & Stealth</b></td>
+    <td><b>Automation & Web Scraping</b></td>
     <td>
       <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Puppeteer_Extra_Stealth-00f5d4?style=flat-square" />
-      <img src="https://img.shields.io/badge/Anti--Fingerprint_Injection-10b981?style=flat-square" />
+      <img src="https://img.shields.io/badge/Puppeteer_Stealth-00f5d4?style=flat-square" />
       <img src="https://img.shields.io/badge/Electron_29-47848F?style=flat-square&logo=electron&logoColor=white" />
-      <img src="https://img.shields.io/badge/Residential_Proxy_Routing-F58220?style=flat-square" />
-      <img src="https://img.shields.io/badge/Bézier_Trajectory_Physics-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Anti--Fingerprinting-10b981?style=flat-square" />
+      <img src="https://img.shields.io/badge/Proxy_Management-F58220?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend & API Engineering</b></td>
+    <td><b>Backend & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td><b>Frontend & Visual Dashboards</b></td>
+    <td><b>Frontend & GUI</b></td>
     <td>
       <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyQtGraph-1E293B?style=flat-square" />
-      <img src="https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td><b>DevOps, Cloud & Architecture</b></td>
+    <td><b>DevOps, Tools & Workflows</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Quality & Validation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zero_Lookahead_Auditing-10b981?style=flat-square" />
-      <img src="https://img.shields.io/badge/Ruff_/_Black-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/Strict_Type_Checking-3178C6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Pair_Programming-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧠 End-to-End Quantitative Intelligence Pipeline
+### 🎯 What I'm Looking For & How We Can Collaborate
 
-```
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │                           GLOBAL MACRO DATA FEEDS                           │
-  │    Central Banks (Fed, ECB, BOE, BOJ) • Economic Prints • Yield Curves      │
-  └──────────────────────────────────────┬──────────────────────────────────────┘
-                                         │
-                                         ▼
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │                         DATA EXTRACTION & VALIDATION                        │
-  │    • Tier 1 Official Validation  • Content Hashing Deduplication            │
-  │    • Z-Score Surprise Engine     • Actual vs Consensus Delta Calculation    │
-  └──────────────────────────────────────┬──────────────────────────────────────┘
-                                         │
-                                         ▼
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │                        14-DIMENSION FACTOR WATERFALL                        │
-  │    • Monetary Policy Momentum    • Disinflationary Trend Vectors            │
-  │    • Real-Yield Differentials    • Cross-Asset Correlation (DXY / Crude)   │
-  └──────────────────────────────────────┬──────────────────────────────────────┘
-                                         │
-                                         ▼
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │                         CENTRAL RISK GOVERNOR (MQL5)                        │
-  │    • Strict 1.50% Max Concurrent Risk Ceiling                               │
-  │    • 3.00% Daily Emergency Hard Breaker & Rollover Guard                    │
-  │    • Auto-Session Detection (London / New York Open Gating)                 │
-  └──────────────────────────────────────┬──────────────────────────────────────┘
-                                         │
-                                         ▼
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │                        INSTITUTIONAL MT5 EXECUTION                          │
-  │    XAUUSD (Gold)  │  NAS100 (Nasdaq)  │  USA500 (S&P 500)  │  GBPUSD (FX)   │
-  └─────────────────────────────────────────────────────────────────────────────┘
-```
+As a self-taught developer looking to grow, I am eager to contribute, learn from experienced engineers, and tackle real-world problems:
+
+- 💼 **Open to Opportunities**:
+  - **Junior / Entry-Level Software Engineer** roles (Python, Backend, Full-Stack)
+  - **Junior Quantitative / Algorithmic Trading Developer** internships or junior positions
+  - **Web Scraping & Browser Automation Specialist** projects
+- 🤝 **Open Source & Freelance**: Available for freelance MQL5 EA development, custom Puppeteer scraping bots, and trading tools.
+- 🧠 **Mentorship & Feedback**: Always eager to connect with experienced engineers, receive code reviews, and learn industry best practices.
 
 ---
 
-### 🛡️ Institutional Prop-Firm Risk Rules Enforced
-
-```yaml
-Risk Governance Standards:
-  Daily Drawdown Hard Ceiling: 3.00% - 4.50% (Instant Circuit Breaker Shutoff)
-  Max Trailing / Overall Drawdown: 6.00% - 10.00% (Absolute Capital Preservation Rail)
-  Concurrent Open Risk Ceiling: <= 1.50% Across All Simultaneous Positions
-  Holding Duration Rules: 120-Second Minimum Tick Rail (Prevents High-Frequency Disqualification)
-  Rollover Liquidity Guard: Mandatory trade lockout 21:55 - 22:15 UTC (Zero Spread-Widen Exposure)
-  Lot Calculation: Centralized down-rounded contract sizing with broker tick precision
-```
-
----
-
-### 💼 Technical Engagements & Collaboration
-
-I am available for selective institutional and private technical engagements:
-- 🔹 **Prop-Firm Algorithm Architecture**: Development of production-ready MQL5 EAs compliant with FTMO, FundedNext, and bespoke prop firms.
-- 🔹 **Stealth Browser Automation & Scraping**: High-concurrency Puppeteer architectures, custom anti-fingerprinting spoofers, and residential proxy routing.
-- 🔹 **Custom Macro Intelligence Dashboards**: Tailored Python/FastAPI bias engines and web terminals for hedge funds, family offices, and active trading groups.
-- 🔹 **Execution Infrastructure & Risk Controls**: Centralized trade managers, multi-timeframe breakout suites, and automated session governors.
-
----
-
-### 📬 Connect With Me
+### 📬 Get In Touch
 
 <div align="center">
 
@@ -365,7 +284,7 @@ I am available for selective institutional and private technical engagements:
 
 <br/><br/>
 
-<i>"In quantitative systems and autonomous automation, precision and defense are paramount. The alpha comes from surviving what eliminates others."</i>
+<i>"I believe the best way to learn software engineering is by building things that are hard, leveraging modern tools to accelerate progress, and staying relentlessly curious."</i>
 
 <br/><br/>
 
