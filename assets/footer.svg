@@ -1,0 +1,24 @@
+<svg width="100%" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="100%" stop-color="#02141a" />
+    </linearGradient>
+    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f5d4" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="900" height="80" rx="12" fill="url(#footer-grad)" />
+  <rect width="898" height="78" x="1" y="1" rx="11" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+
+  <!-- Accent Glow Line -->
+  <rect x="200" y="0" width="500" height="2" fill="url(#footer-line)" />
+
+  <text x="450" y="46" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-weight="600" font-size="13" letter-spacing="1" fill="rgba(255,255,255,0.6)">
+    ENGINEERED WITH PASSION, CODE &amp; CONTINUOUS EXPERIMENTATION • FORTUNE ANUKPOSI
+  </text>
+</svg>

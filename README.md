@@ -1,26 +1,31 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0b0f19,022c22,0f766e,06b6d4,3b82f6&height=220&section=header&text=FORTUNE%20ANUKPOSI&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Self-Taught%20Developer%20%7C%20Algo%20Trading%20%26%20Automation%20Builder&descFontSize=16&descAlignY=68" width="100%" alt="Fortune Anukposi Banner" />
+<!-- HERO BANNER (Hosted directly in repo - 100% reliable, zero downtime) -->
+<img src="./assets/header.svg" width="100%" alt="Fortune Anukposi Banner" />
+
+<br/><br/>
 
 <!-- ANIMATED TYPING SUBHEADER -->
 <a href="https://github.com/anfor183">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Self-Taught+Developer+%26+AI-Augmented+Builder;Algorithmic+Trading+%26+MT5%2FMQL5+Strategy+Developer;Stealth+Puppeteer+Automation+%26+Web+Scraping;Python+%E2%80%A2+MQL5+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Open+to+Junior+%2F+Entry-Level+Roles+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Self-Taught+Developer+%26+AI-Augmented+Builder;Algorithmic+Trading+%26+MT5%2FMQL5+Strategy+Developer;Sports+Prediction+Engines+%26+Poisson+Modeling;Stealth+Puppeteer+Automation+%26+Web+Scraping;Python+%E2%80%A2+MQL5+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Open+to+Junior+%2F+Entry-Level+Roles+%26+Collaborations" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL QUICK PINS & BADGES -->
 <p align="center">
   <a href="mailto:fortuneanukposi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-00f5d4?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/anfor183">
     <img src="https://img.shields.io/badge/GitHub-anfor183-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://github.com/anfor183?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-AI--Augmented%20Building-6366f1?style=for-the-badge&logo=sparkles&logoColor=white" alt="Focus" />
   </a>
+  &nbsp;
   <a href="mailto:fortuneanukposi@gmail.com">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Junior%20Roles-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
   </a>
@@ -32,12 +37,13 @@
 
 ### 👋 About Me & My Journey
 
-Hi, I'm **Fortune Anukposi**! I am a **self-taught, builder-minded developer** with a strong passion for **algorithmic trading, browser automation, and full-stack software development**.
+Hi, I'm **Fortune Anukposi**! I am a **self-taught, builder-minded developer** with a strong passion for **algorithmic trading, sports predictive modeling, browser automation, and full-stack software development**.
 
-I haven't worked at a traditional tech company yet—instead, I’ve taken a proactive, hands-on path: building practical, complex personal projects from scratch, experimenting with trading strategies, and learning how modern systems work from the inside out.
+I haven't worked at a traditional tech company yet—instead, I’ve taken a proactive, hands-on path: building practical, complex personal projects from scratch, experimenting with quantitative models, and learning how modern systems work from the inside out.
 
 - 🛠️ **AI-Augmented Solo Builder**: I actively embrace modern AI engineering tools (like LLM pair-programmers and code generation) to accelerate my learning, architect systems, and build ambitious software solo that would otherwise require entire teams.
 - 📈 **Trading & Financial Systems**: Deeply interested in quantitative trading, technical/fundamental analysis, and risk management. I've designed and backtested automated Expert Advisors (EAs) in native **MQL5 for MetaTrader 5** with strict drawdown protections.
+- ⚽ **Sports Predictive Analytics**: Developed machine learning and statistical models (Poisson goal distributions, exponential time-decay weighting) to analyze and predict match outcomes in Virtual Football Leagues (VFL).
 - 🤖 **Web Automation & Stealth Scraping**: Built high-concurrency browser automation pipelines using **Puppeteer**, experimenting with anti-fingerprint techniques (`fp-script`), human behavior modeling, and desktop management GUIs.
 - 🚀 **Always Learning & Shipping**: Currently exploring Python data pipelines, FastAPI microservices, and modern React/TypeScript frontends.
 
@@ -46,7 +52,7 @@ I haven't worked at a traditional tech company yet—instead, I’ve taken a pro
 ### 💡 My Approach to Building (AI-Augmented Development)
 
 Rather than passively following tutorials, I build real software using a modern workflow:
-1. **Domain Research & Architecture First**: I define the problem, logic, and safety guardrails (e.g., prop-firm drawdown rules, stealth browser fingerprint masking, or macroeconomic surprise indicators).
+1. **Domain Research & Architecture First**: I define the problem, logic, and safety guardrails (e.g., prop-firm drawdown rules, Poisson football distribution math, or stealth browser fingerprint masking).
 2. **AI-Accelerated Implementation**: I direct AI assistants to generate clean, modular code, scaffold APIs, and help write complex algorithms.
 3. **Rigorous Testing & Debugging**: I personally audit the logic, test binaries in MetaTrader / Node / Python, fix edge cases, and verify execution in real-world scenarios.
 
@@ -80,8 +86,28 @@ Rather than passively following tutorials, I build real software using a modern 
 ### 🚀 Featured Personal Projects & Explorations
 
 <table>
-  <!-- ROW 1: MACRO TERMINAL & PROPER EA -->
+  <!-- ROW 1: FOOTBALL PREDICTOR & MACRO TERMINAL -->
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">⚽ SportyBet VFL AI Football Predictor & Archiver</h3>
+      <p><b>Statistical Prediction Engine & Live Archiver for Virtual Football Leagues</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Model-Poisson%20Distribution-00f5d4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Database-SQLite%20(390MB%2B)-blue?style=flat-square&logo=sqlite" />
+        <img src="https://img.shields.io/badge/Engine-Puppeteer%20Stealth-339933?style=flat-square&logo=puppeteer" />
+        <img src="https://img.shields.io/badge/UI-Cyberpunk%20HTML5-e63946?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>What it does:</b> An automated quantitative modeling system that predicts match outcomes for SportyBet England Virtual Football League (VFL).</li>
+        <li><b>Key Capabilities:</b>
+          <ul>
+            <li><b>Poisson Distribution & Decay Modeling (<code>ml_predictor.js</code>):</b> Evaluates dynamic team attack and defense ratings with exponential time-decay weights (<code>decayRate</code>) to project exact goal distributions, 1X2 market probabilities, Over/Under (1.5, 2.5, 3.5), and BTTS.</li>
+            <li><b>Automated High-Speed Archiver (<code>human_virtual_football_archive.js</code>):</b> Continuous stealth scraper logging live match data, odds, and round results into an optimized SQLite database (390MB+ archive).</li>
+            <li><b>Live Analytical Dashboard (<code>sportybet-vfl-predictor.html</code>):</b> Responsive dark-mode interface featuring round countdown timers, head-to-head form streaks, and statistical value ratings.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
       <h3 align="left">🌐 Macro Fundamental Intelligence Terminal</h3>
       <p><b>Automated Macro Intelligence & Market-Bias Engine for 50 Global Assets</b></p>
@@ -99,6 +125,10 @@ Rather than passively following tutorials, I build real software using a modern 
         <li><b>Stack:</b> Python 3.12, FastAPI, React 18, TypeScript, TailwindCSS, Docker.</li>
       </ul>
     </td>
+  </tr>
+
+  <!-- ROW 2: PROPER EA & PUPPETEER -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">📈 Proper-EA-Dream Prop-Firm Portfolio (MT5)</h3>
       <p><b>Automated Multi-Asset Trading System Built for Prop Firm Challenge Rules</b></p>
@@ -120,10 +150,6 @@ Rather than passively following tutorials, I build real software using a modern 
         </li>
       </ul>
     </td>
-  </tr>
-
-  <!-- ROW 2: PUPPETEER & TRIPLE EA -->
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🤖 Autonomous Stealth Puppeteer Automation & Dashboard</h3>
       <p><b>Browser Automation Framework with Anti-Detection & Desktop GUI</b></p>
@@ -144,6 +170,10 @@ Rather than passively following tutorials, I build real software using a modern 
         </li>
       </ul>
     </td>
+  </tr>
+
+  <!-- ROW 3: TRIPLE EA & SOFT4X SIMULATOR -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">⚡ Triple-EA Multi-Strategy Portfolio</h3>
       <p><b>Multi-Strategy Trading Suite with Central Risk Controller</b></p>
@@ -159,10 +189,6 @@ Rather than passively following tutorials, I build real software using a modern 
         <li><b>Core Focus:</b> Centralized position sizing, a strict 1.5% concurrent risk cap, and order filling fallback logic (`FOK &rarr; IOC &rarr; RETURN`).</li>
       </ul>
     </td>
-  </tr>
-
-  <!-- ROW 3: SOFT4X SIMULATOR & VIDMAXX -->
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🧪 Soft4X Forex Simulator & SMC Detector</h3>
       <p><b>Offline Forex Testing Simulator with Smart Money Concepts Logic</b></p>
@@ -174,20 +200,6 @@ Rather than passively following tutorials, I build real software using a modern 
       <ul>
         <li><b>What it does:</b> A desktop market simulator built in Python and PyQt6 for testing trading setups tick-by-tick.</li>
         <li><b>Algorithmic Highlights:</b> Built an automated detection engine for institutional price action: Order Blocks (OB), Fair Value Gaps (FVG), Market Structure Breaks (BOS/CHoCH), and Liquidity Sweeps.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🎥 VidMaxx AI Video Scheduler</h3>
-      <p><b>AI Content Generation & Automation Pipeline</b></p>
-      <p>
-        <a href="https://github.com/anfor183/vidmaxx-ai-video-generator-scheduler">
-          <img src="https://img.shields.io/badge/Personal%20Project-VidMaxx-00f5d4?style=flat-square&logo=github" />
-        </a>
-        <img src="https://img.shields.io/badge/Stack-Next.js%20%2B%20Supabase-black?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>What it does:</b> Exploring automated content workflows, connecting generative AI prompts, scheduling databases, and publishing pipelines.</li>
-        <li><b>Stack:</b> Next.js, TypeScript, TailwindCSS, and Supabase.</li>
       </ul>
     </td>
   </tr>
@@ -212,6 +224,16 @@ Rather than passively following tutorials, I build real software using a modern 
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Strategy_Backtesting-10b981?style=flat-square" />
       <img src="https://img.shields.io/badge/Risk_Management_Rails-6366f1?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Sports Analytics & Modeling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Poisson_Goal_Distribution-00F5D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Exponential_Decay_Weights-38BDF8?style=flat-square" />
+      <img src="https://img.shields.io/badge/Better--SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Match_Scraping_Pipelines-10B981?style=flat-square" />
+      <img src="https://img.shields.io/badge/Probability_Estimation-8B5CF6?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -264,8 +286,9 @@ As a self-taught developer looking to grow, I am eager to contribute, learn from
 - 💼 **Open to Opportunities**:
   - **Junior / Entry-Level Software Engineer** roles (Python, Backend, Full-Stack)
   - **Junior Quantitative / Algorithmic Trading Developer** internships or junior positions
+  - **Sports Analytics & Predictive Modeling** projects
   - **Web Scraping & Browser Automation Specialist** projects
-- 🤝 **Open Source & Freelance**: Available for freelance MQL5 EA development, custom Puppeteer scraping bots, and trading tools.
+- 🤝 **Open Source & Freelance**: Available for freelance MQL5 EA development, custom Puppeteer scraping bots, predictive engines, and trading tools.
 - 🧠 **Mentorship & Feedback**: Always eager to connect with experienced engineers, receive code reviews, and learn industry best practices.
 
 ---
@@ -288,6 +311,7 @@ As a self-taught developer looking to grow, I am eager to contribute, learn from
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0b0f19,0f766e,06b6d4,3b82f6&height=120&section=footer" width="100%" alt="Footer Banner" />
+<!-- FOOTER BANNER (Hosted directly in repo) -->
+<img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
