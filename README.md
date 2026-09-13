@@ -70,10 +70,10 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=anfor183&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00F5D4&text_color=cbd5e1&icon_color=38bdf8&rank_icon=github" width="100%" alt="Fortune Anukposi GitHub Stats" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=anfor183&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00F5D4&text_color=cbd5e1&icon_color=38bdf8&rank_icon=github&include_all_commits=true&hide=stars,issues,contribs" width="100%" alt="Fortune Anukposi GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anfor183&layout=compact&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00F5D4&text_color=cbd5e1" width="100%" alt="Most Used Languages" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anfor183&layout=compact&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00F5D4&text_color=cbd5e1&hide=mql4" width="100%" alt="Most Used Languages" />
       </td>
     </tr>
     <tr>
