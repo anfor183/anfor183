@@ -1,0 +1,81 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 700 17px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #00F5D4; }
+    .stat-label { font: 600 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #94a3b8; }
+    .stat-val { font: 700 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #f1f5f9; }
+    .rank-text { font: 800 24px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #00F5D4; }
+    .badge-label { font: 600 10px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif; fill: #38bdf8; }
+    .icon { fill: #38bdf8; }
+    .card-border { stroke: #1e293b; stroke-width: 1; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#0b0f19" class="card-border" />
+  
+  <!-- Subtle Gradient Accent on top border -->
+  <rect x="0.5" y="0.5" width="494" height="3" rx="1.5" fill="url(#topGlow)" />
+
+  <defs>
+    <linearGradient id="topGlow" x1="0" y1="0" x2="495" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5D4" />
+      <stop offset="0.5" stop-color="#38bdf8" />
+      <stop offset="1" stop-color="#818cf8" />
+    </linearGradient>
+    <linearGradient id="rankCircle" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00F5D4" />
+      <stop offset="1" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Header -->
+  <g transform="translate(25, 32)">
+    <text x="0" y="0" class="header">Fortune Anukposi's Engineering Stats</text>
+    <rect x="335" y="-12" width="105" height="18" rx="4" fill="#0f766e" fill-opacity="0.25" stroke="#0d9488" stroke-width="0.8" />
+    <text x="387" y="1" text-anchor="middle" class="badge-label">PUBLIC + PRIVATE</text>
+  </g>
+
+  <!-- Rank Circle (A+) -->
+  <g transform="translate(425, 110)">
+    <circle cx="0" cy="0" r="36" stroke="#1e293b" stroke-width="5" fill="none" />
+    <circle cx="0" cy="0" r="36" stroke="url(#rankCircle)" stroke-width="5" fill="none" stroke-dasharray="226" stroke-dashoffset="35" stroke-linecap="round" />
+    <text x="0" y="8" text-anchor="middle" class="rank-text">A+</text>
+  </g>
+
+  <!-- Stats Rows -->
+  <g transform="translate(25, 60)">
+    <!-- Total Commits -->
+    <g transform="translate(0, 0)">
+      <path class="icon" d="M10.5 4.5a3 3 0 10-5.83 1H2v2h2.67a3 3 0 105.83 1H14V6.5h-3.5zM7.5 7.5a1.5 1.5 0 110-3 1.5 1.5 0 010 3z" />
+      <text x="24" y="10" class="stat-label">Total Lifetime Commits:</text>
+      <text x="210" y="10" class="stat-val">319</text>
+    </g>
+
+    <!-- Commits 2026 -->
+    <g transform="translate(0, 26)">
+      <path class="icon" d="M3 3h10v2H3V3zm0 4h10v2H3V7zm0 4h7v2H3v-2z" />
+      <text x="24" y="10" class="stat-label">2026 Active Commits:</text>
+      <text x="210" y="10" class="stat-val">257</text>
+    </g>
+
+    <!-- Repositories Total -->
+    <g transform="translate(0, 52)">
+      <path class="icon" d="M2 3a1 1 0 011-1h10a1 1 0 011 1v10a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm2 1v8h8V4H4z" />
+      <text x="24" y="10" class="stat-label">Total Repositories:</text>
+      <text x="210" y="10" class="stat-val">22 (13 Private, 9 Public)</text>
+    </g>
+
+    <!-- Pull Requests -->
+    <g transform="translate(0, 78)">
+      <path class="icon" d="M4 1a2 2 0 00-2 2v6a2 2 0 003.73.99A3.001 3.001 0 008 12a3 3 0 002.27-2.01A2 2 0 0014 9V3a2 2 0 00-4 0v1.07A2.99 2.99 0 008 4a2.99 2.99 0 00-2-.93V3a2 2 0 00-2-2z" />
+      <text x="24" y="10" class="stat-label">Total Pull Requests:</text>
+      <text x="210" y="10" class="stat-val">2</text>
+    </g>
+
+    <!-- Zero-Lookahead & Test Coverage -->
+    <g transform="translate(0, 104)">
+      <path class="icon" d="M12 2l-6 3v5c0 4.42 3.58 8 6 9 2.42-1 6-4.58 6-9V5l-6-3zm-1 12l-3-3 1.41-1.41L11 11.17l4.59-4.58L17 8l-6 6z" />
+      <text x="24" y="10" class="stat-label">Verified Test Coverage:</text>
+      <text x="210" y="10" class="stat-val" fill="#00F5D4">105 Automated Pytest Tests</text>
+    </g>
+  </g>
+</svg>
