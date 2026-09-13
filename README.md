@@ -181,7 +181,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
     </td>
   </tr>
 
-  <!-- ROW 3: TRIPLE EA & SOFT4X SIMULATOR -->
+  <!-- ROW 3: TRIPLE EA & FORTUNE4X TESTER PRO -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">⚡ Triple-EA Multi-Strategy Portfolio Engine</h3>
@@ -199,16 +199,18 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🧪 Soft4X Forex Market Simulator & SMC Detector</h3>
-      <p><b>High-Fidelity Offline Market Simulator with Algorithmic Price Action Detection</b></p>
+      <h3 align="left">🧪 Fortune4X Tester Pro: Market Replay Simulator &amp; Execution Engine</h3>
+      <p><b>High-Performance Manual Backtesting &amp; Visual Replay Platform for MetaTrader 5 (MT5)</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Language-Python%203-3776ab?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/GUI-PyQt6-41cd52?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pattern-Smart%20Money%20Concepts-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Platform-MetaTrader%205-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Language-MQL5%20%7C%20Python-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Feature-Visual%20Execution%20Ladder-00f5d4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Module-SMC%20Detector-yellow?style=flat-square" />
       </p>
       <ul>
-        <li><b>Architecture:</b> Event-driven offline backtesting environment built in Python and PyQt6 for testing trading algorithms tick-by-tick.</li>
-        <li><b>Algorithmic Module:</b> Automated Smart Money Concepts (SMC) detection: Order Blocks (OB), Fair Value Gaps (FVG), Market Structure Breaks (BOS/CHoCH), and Liquidity Sweeps.</li>
+        <li><b>Interactive Execution Ladder:</b> Visual on-chart order handles with independent drag handles (Cyan Entry line, Crimson Stop Loss with dynamic dollar risk, Emerald Take Profit with real-time Risk-to-Reward ratio).</li>
+        <li><b>Precision Market Replay:</b> Bar-by-bar candle stepping, collision-free hotkeys, and variable playback speeds for discretionary and systematic setup validation.</li>
+        <li><b>Smart Money Concepts (SMC):</b> Integrated algorithmic detection for Order Blocks (OB), Fair Value Gaps (FVG), Market Structure Breaks (BOS/CHoCH), and Liquidity Sweeps.</li>
       </ul>
     </td>
   </tr>
