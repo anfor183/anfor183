@@ -1,4 +1,4 @@
-<svg width="100%" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="210" viewBox="0 0 900 210" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#060913" />
@@ -8,7 +8,7 @@
     </linearGradient>
     <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="60%" stop-color="#e2e8f0" />
+      <stop offset="65%" stop-color="#e2e8f0" />
       <stop offset="100%" stop-color="#00f5d4" />
     </linearGradient>
     <linearGradient id="sub-grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -34,43 +34,33 @@
   </defs>
 
   <!-- Background Canvas -->
-  <rect width="900" height="200" rx="16" fill="url(#bg-grad)" />
-  <rect width="898" height="198" x="1" y="1" rx="15" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+  <rect width="900" height="210" rx="16" fill="url(#bg-grad)" />
+  <rect width="898" height="208" x="1" y="1" rx="15" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
 
   <!-- Ambient Wave Graphic -->
-  <path d="M0,130 C150,100 300,165 450,135 C600,105 750,150 900,120 L900,200 L0,200 Z" fill="url(#wave-grad)" />
-  <path d="M0,150 C200,120 400,175 600,140 C750,115 820,160 900,145 L900,200 L0,200 Z" fill="rgba(0,245,212,0.04)" />
+  <path d="M0,140 C150,110 300,175 450,145 C600,115 750,160 900,130 L900,210 L0,210 Z" fill="url(#wave-grad)" />
+  <path d="M0,160 C200,130 400,185 600,150 C750,125 820,170 900,155 L900,210 L0,210 Z" fill="rgba(0,245,212,0.04)" />
 
   <!-- Top Accent Glow Line -->
   <rect x="150" y="0" width="600" height="2" fill="url(#line-grad)" />
 
-  <!-- Decorative Matrix Dots -->
-  <g fill="rgba(255,255,255,0.06)">
-    <circle cx="40" cy="40" r="1.5" /><circle cx="60" cy="40" r="1.5" /><circle cx="80" cy="40" r="1.5" />
-    <circle cx="40" cy="60" r="1.5" /><circle cx="60" cy="60" r="1.5" /><circle cx="80" cy="60" r="1.5" />
-    <circle cx="40" cy="80" r="1.5" /><circle cx="60" cy="80" r="1.5" /><circle cx="80" cy="80" r="1.5" />
-    <circle cx="820" cy="120" r="1.5" /><circle cx="840" cy="120" r="1.5" /><circle cx="860" cy="120" r="1.5" />
-    <circle cx="820" cy="140" r="1.5" /><circle cx="840" cy="140" r="1.5" /><circle cx="860" cy="140" r="1.5" />
-    <circle cx="820" cy="160" r="1.5" /><circle cx="840" cy="160" r="1.5" /><circle cx="860" cy="160" r="1.5" />
-  </g>
-
   <!-- Central Typography -->
-  <text x="450" y="85" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-weight="900" font-size="40" letter-spacing="3" fill="url(#text-grad)">
-    FORTUNE ANUKPOSI
+  <text x="450" y="85" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-weight="900" font-size="38" letter-spacing="3" fill="url(#text-grad)">
+    FORTUNE ANUKPOSI, M.Sc.
   </text>
 
   <!-- Glowing Accent Divider -->
-  <rect x="280" y="108" width="340" height="2" rx="1" fill="url(#line-grad)" filter="url(#glow)" />
+  <rect x="260" y="106" width="380" height="2" rx="1" fill="url(#line-grad)" filter="url(#glow)" />
 
   <!-- Subtitle Tagline -->
-  <text x="450" y="142" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, monospace" font-weight="600" font-size="15" letter-spacing="1.5" fill="url(#sub-grad)">
-    SELF-TAUGHT DEVELOPER • ALGO TRADING • AUTOMATION • SPORTS PREDICTION
+  <text x="450" y="140" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, monospace" font-weight="600" font-size="14.5" letter-spacing="1.5" fill="url(#sub-grad)">
+    SOFTWARE ENGINEER • QUANTITATIVE SYSTEMS • WEB AUTOMATION
   </text>
 
-  <!-- Status Pill -->
-  <g transform="translate(380, 160)">
-    <rect width="140" height="22" rx="11" fill="rgba(0,245,212,0.1)" stroke="rgba(0,245,212,0.3)" stroke-width="1" />
-    <circle cx="16" cy="11" r="3.5" fill="#00f5d4" />
-    <text x="28" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10.5" font-weight="700" fill="#00f5d4" letter-spacing="0.8">BUILDING &amp; SHIPPING</text>
+  <!-- Professional Credentials Pill -->
+  <g transform="translate(320, 160)">
+    <rect width="260" height="24" rx="12" fill="rgba(0,245,212,0.08)" stroke="rgba(0,245,212,0.25)" stroke-width="1" />
+    <circle cx="16" cy="12" r="3.5" fill="#00f5d4" />
+    <text x="28" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#00f5d4" letter-spacing="0.6">M.Sc. Business Information Systems (Middlesex)</text>
   </g>
 </svg>
