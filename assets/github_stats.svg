@@ -47,7 +47,7 @@
     <g transform="translate(0, 0)">
       <path class="icon" d="M10.5 4.5a3 3 0 10-5.83 1H2v2h2.67a3 3 0 105.83 1H14V6.5h-3.5zM7.5 7.5a1.5 1.5 0 110-3 1.5 1.5 0 010 3z" />
       <text x="24" y="10" class="stat-label">Total Lifetime Commits:</text>
-      <text x="210" y="10" class="stat-val">319</text>
+      <text x="210" y="10" class="stat-val">320</text>
     </g>
 
     <!-- Commits 2026 -->
@@ -61,7 +61,7 @@
     <g transform="translate(0, 52)">
       <path class="icon" d="M2 3a1 1 0 011-1h10a1 1 0 011 1v10a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm2 1v8h8V4H4z" />
       <text x="24" y="10" class="stat-label">Total Repositories:</text>
-      <text x="210" y="10" class="stat-val">22 (13 Private, 9 Public)</text>
+      <text x="210" y="10" class="stat-val">23 (13 Private, 10 Public)</text>
     </g>
 
     <!-- Pull Requests -->

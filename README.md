@@ -114,21 +114,23 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚽ Event-Driven Sports Simulation & Statistical Prediction Engine</h3>
-      <p><b>High-Throughput Match Data Pipeline & Probability Estimation System</b></p>
+      <h3 align="left">⚽ Event-Driven Football Simulation &amp; Statistical Prediction Engine</h3>
+      <p><b>Quantitative Probability Modeling Platform, Backtest Harness &amp; Desktop Operator Dashboard</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Model-Poisson%20Distribution-00f5d4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Database-SQLite%20(390MB%2B)-blue?style=flat-square&logo=sqlite" />
-        <img src="https://img.shields.io/badge/Pipeline-Puppeteer%20Stealth-339933?style=flat-square&logo=puppeteer" />
-        <img src="https://img.shields.io/badge/UI-Realtime%20Dashboard-e63946?style=flat-square" />
+        <a href="https://github.com/anfor183/football-simulation-prediction-engine">
+          <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/Models-Poisson%20%2B%20ML-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Electron%20%7C%20React%2018-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/Storage-SQLite%20WAL-2496ed?style=flat-square&logo=sqlite" />
       </p>
       <ul>
-        <li><b>Engineering Problem:</b> Simulating sports events and finding predictive probability edges requires continuous ingestion of large-scale time-series match data with decay adjustments.</li>
+        <li><b>Engineering Problem:</b> Forecasting event-driven sports probabilities and capturing market value discrepancies requires high-throughput time-series ingestion, dynamic form decay, and multi-market probability matrices.</li>
         <li><b>Technical Highlights:</b>
           <ul>
-            <li><b>Mathematical Modeling (<code>ml_predictor.js</code>):</b> Computes team offensive/defensive coefficients using <b>Poisson probability distributions</b> and exponential decay weighting to forecast exact goal distributions, 1X2 market odds, and Over/Under thresholds.</li>
-            <li><b>Continuous Archiving Engine (<code>human_virtual_football_archive.js</code>):</b> High-speed headless crawler capturing live round data and streaming it into a <b>390MB+ time-series SQLite database</b> (`better-sqlite3`).</li>
-            <li><b>Live Analytical Companion (<code>sportybet-vfl-predictor.html</code>):</b> Responsive web interface featuring round countdown timers, head-to-head form streaks, and statistical value ratings.</li>
+            <li><b>Mathematical &amp; ML Core (<code>analytics/</code> &amp; <code>models/</code>):</b> Computes dynamic attack/defense coefficients via <b>Poisson probability mass functions</b> and exponential time-decay kernels. Features pre-trained ML calibration models for Over/Under (1.5, 2.5, 3.5), Both Teams to Score (BTTS), and HT/FT Markovian transition matrices.</li>
+            <li><b>Real-Time Desktop Dashboard (<code>dashboard/</code>):</b> Cross-platform operator control center engineered with <b>Electron 29</b>, <b>React 18</b>, <b>Vite</b>, and <b>TailwindCSS</b>, featuring live match countdowns, form streaks, and bankroll equity curve simulation.</li>
+            <li><b>Time-Series Storage &amp; Ingestion:</b> High-concurrency <b>SQLite storage running in WAL mode</b> with sub-millisecond query indexing and a modular WebSocket streaming ingestion adapter.</li>
           </ul>
         </li>
       </ul>
