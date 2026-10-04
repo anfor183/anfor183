@@ -55,7 +55,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
 | **Backend & API Design** | Clean, modular microservices in **FastAPI** and **Node.js** with typed schemas (**Pydantic**), REST endpoints, and WebSockets. |
 | **Relational Database Systems** | High-speed data caching and storage with **SQLite** (WAL mode) and **PostgreSQL**, managing datasets exceeding 390MB+ and hundreds of thousands of records. |
 | **Automated Testing & QA** | Writing comprehensive automated test suites (**Pytest**) with strict zero-lookahead bias audits and regression testing. |
-| **Web Scraping & Automation** | Architecting stealth **Puppeteer** crawlers with dynamic fingerprint injection (`fp-script`), Bézier trajectory mouse kinetics, and residential proxy rotation. |
+| **Browser Automation & Test Engineering** | Low-latency **Puppeteer** & **CDP** test/execution engines with Bézier trajectory input kinetics, session self-healing, and real-time Electron telemetry. |
 | **Algorithmic Trading & FinTech** | Developing native **MQL5 for MetaTrader 5** with centralized risk governance, automated broker timezone synchronization, and hard drawdown circuit breakers. |
 | **DevOps & Infrastructure** | Containerization with **Docker** and **Docker Compose**, headless Linux server deployment, Git version control, and CI/CD pipelines. |
 
@@ -162,21 +162,23 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 Stealth Browser Automation Framework & Desktop Orchestrator</h3>
-      <p><b>High-Fidelity Anti-Detection Crawler Suite with Electron Desktop GUI</b></p>
+      <h3 align="left">🤖 Nexus VFL: Automated Browser Execution Engine &amp; Control Dashboard</h3>
+      <p><b>Deterministic Browser Test/Execution Pipeline &amp; Real-Time Telemetry Management Console</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Engine-Puppeteer-00f5d4?style=flat-square&logo=puppeteer" />
+        <a href="https://github.com/anfor183/bettorVFL-Executor">
+          <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/Engine-Puppeteer%20%7C%20CDP-00f5d4?style=flat-square&logo=puppeteer" />
         <img src="https://img.shields.io/badge/Desktop-Electron%2029%20%2B%20React-61dafb?style=flat-square&logo=electron" />
-        <img src="https://img.shields.io/badge/Stealth-Anti--Fingerprint-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Proxy-Residential%20Pool-F58220?style=flat-square" />
+        <img src="https://img.shields.io/badge/Storage-Better--SQLite3-2496ed?style=flat-square&logo=sqlite" />
       </p>
       <ul>
-        <li><b>Engineering Problem:</b> Modern web applications employ sophisticated bot-mitigation techniques (Canvas/WebGL fingerprinting, mouse velocity heuristics) that block standard scrapers.</li>
+        <li><b>Engineering Problem:</b> High-throughput virtual sports execution requires deterministic DOM interaction, zero-flakiness event dispatching, and real-time risk controls without human intervention.</li>
         <li><b>Technical Highlights:</b>
           <ul>
-            <li>Custom client-side fingerprint masking (<code>fp-script.js</code>) dynamically intercepting Canvas, WebGL, AudioContext, and navigator permissions.</li>
-            <li>Humanized interaction physics: randomized Bézier trajectory mouse movements, natural scroll mechanics with inertia, and realistic keystroke delays.</li>
-            <li>Cross-platform desktop command center (<code>bot-dashboard</code>) built with <b>Electron 29</b>, <b>Vite</b>, and <b>React 18</b> for managing multi-instance bots and proxy failovers.</li>
+            <li><b>Deterministic CDP Dispatching:</b> Employs low-level <b>Chrome DevTools Protocol (CDP)</b> event synthesis (<code>Input.dispatchMouseEvent</code>, <code>Input.dispatchKeyEvent</code>) with cubic Bézier trajectory physics and micro-jitter delays to ensure authentic, non-synthetic UI validation.</li>
+            <li><b>Session Self-Healing &amp; Resilience:</b> Autonomous recovery mechanisms that detect and repair corrupt browser preferences, handle modal dismissals, and retry dropped WebSocket telemetry streams.</li>
+            <li><b>Nexus Desktop Control Center (<code>dashboard/</code>):</b> Full-stack desktop dashboard built with <b>Electron 29</b>, <b>React 18</b>, and <b>TailwindCSS</b> providing live match telemetry, capital preservation guards (Stop-Loss/Take-Profit), and VPS process management.</li>
           </ul>
         </li>
       </ul>

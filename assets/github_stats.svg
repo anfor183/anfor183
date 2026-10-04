@@ -61,7 +61,7 @@
     <g transform="translate(0, 52)">
       <path class="icon" d="M2 3a1 1 0 011-1h10a1 1 0 011 1v10a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm2 1v8h8V4H4z" />
       <text x="24" y="10" class="stat-label">Total Repositories:</text>
-      <text x="210" y="10" class="stat-val">23 (13 Private, 10 Public)</text>
+      <text x="210" y="10" class="stat-val">23 (12 Private, 11 Public)</text>
     </g>
 
     <!-- Pull Requests -->
