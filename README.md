@@ -93,22 +93,23 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🌐 Quantitative Macro Fundamental Intelligence Engine</h3>
-      <p><b>Automated Macro-Fundamental Intelligence & Market-Bias Platform across 50 Global Assets</b></p>
+      <p><b>Institutional Macro-Fundamental Intelligence, Dynamic COT Heatmaps & Market-Bias Platform</b></p>
       <p>
-        <a href="https://github.com/anfor183/macro-fundamental-intelligence-terminal">
+        <a href="https://github.com/anfor183/macro-terminal-community">
           <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
         </a>
-        <img src="https://img.shields.io/badge/Tests-105%20Passing-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tests-195%20Passing-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20React%2018-009688?style=flat-square" />
         <img src="https://img.shields.io/badge/Docker-Ready-2496ed?style=flat-square" />
       </p>
       <ul>
-        <li><b>Engineering Problem:</b> Manual macroeconomic analysis is slow, inconsistent, and prone to hindsight bias. This platform systematically evaluates incoming economic prints against expectations.</li>
+        <li><b>Engineering Problem:</b> Discretionary macroeconomic and positioning analysis is fragmented and prone to hindsight bias. This platform systematically ingests economic surprises, central bank policy, and institutional COT positioning to compute real-time tactical market bias across 50+ global assets.</li>
         <li><b>Technical Highlights:</b>
           <ul>
-            <li>14-dimension macro factor decomposition (monetary policy, inflation, real yields, terms-of-trade) producing a normalized -100 to +100 directional bias scale.</li>
-            <li>Built with <b>FastAPI</b>, <b>React 18</b>, <b>TypeScript</b>, and <b>TailwindCSS</b>, fully containerized via <b>Docker Compose</b>.</li>
-            <li>Rigorous test coverage: <b>105 automated unit tests passing</b> validating zero-lookahead bias and factor decay calculations.</li>
+            <li><b>Institutional COT Engine & Dynamic Heatmaps:</b> Live CFTC Commitments of Traders ingestion, Larry Williams COT Index across 380+ markets, 5-year multi-timeframe weekly breakdown tables, and dynamic relative span color heatmaps across 26 metrics.</li>
+            <li><b>14-Dimension Macro Decomposition:</b> Monetary policy differentials, inflation surprises, real yields, and terms-of-trade normalized to a -100 to +100 directional bias scale.</li>
+            <li><b>Rigorous Test Coverage:</b> <b>195 automated unit & integration tests passing</b> with strict zero-lookahead bias audits and a 15-year historical backtesting/forward-testing replay harness.</li>
+            <li>Built with <b>Python 3.12</b>, <b>FastAPI</b>, <b>React 18</b>, <b>TypeScript</b>, <b>Vite</b>, and <b>TailwindCSS</b>, fully containerized via <b>Docker Compose</b>.</li>
           </ul>
         </li>
       </ul>
