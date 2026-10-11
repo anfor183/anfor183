@@ -56,6 +56,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
 | **Relational Database Systems** | High-speed data caching and storage with **SQLite** (WAL mode) and **PostgreSQL**, managing datasets exceeding 390MB+ and hundreds of thousands of records. |
 | **Automated Testing & QA** | Writing comprehensive automated test suites (**Pytest**) with strict zero-lookahead bias audits and regression testing. |
 | **Browser Automation & Test Engineering** | Low-latency **Puppeteer** & **CDP** test/execution engines with Bézier trajectory input kinetics, session self-healing, and real-time Electron telemetry. |
+| **Content Intelligence & SEO Analytics** | Multi-factor opportunity scoring algorithms (0–100), automated competitor beatability evaluation, zero-quota autocomplete ingestion, and production SQLite WAL persistence in **TubeOpportunity PRO**. |
 | **Desktop & Cross-Platform UI** | Developing high-performance desktop control centers in **Electron 29** & **React 18** with real-time WebSocket state management, telemetry charts, and SQLite WAL data persistence. |
 | **DevOps & Infrastructure** | Containerization with **Docker** and **Docker Compose**, headless Linux server deployment, Git version control, and CI/CD pipelines. |
 
@@ -185,6 +186,35 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       </ul>
     </td>
   </tr>
+
+  <!-- ROW 3: TUBEEOPPORTUNITY PRO (FEATURED FULL-WIDTH) -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="left">📊 TubeOpportunity PRO: YouTube Evergreen Keyword &amp; Virality Intelligence Platform</h3>
+      <p><b>Production-Grade YouTube Intelligence, Multi-Factor Opportunity Scoring &amp; Quantitative Creator Decision-Support System</b></p>
+      <p>
+        <a href="https://github.com/anfor183/tube-opportunity-pro">
+          <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/Algorithm-Multi--Factor%20Scoring%20(0--100)-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20React%2018%20%7C%20TypeScript-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/Storage-SQLite%20WAL-2496ed?style=flat-square&logo=sqlite" />
+        <img src="https://img.shields.io/badge/API-YouTube%20Data%20v3%20%2B%20Zero--Quota%20Client-ff0000?style=flat-square&logo=youtube" />
+      </p>
+      <ul>
+        <li><b>Engineering Problem:</b> Content creators, quantitative media teams, and SEO strategists struggle with noisy search volume metrics that fail to predict long-term video viability, competitive saturation, or small-creator beatability. TubeOpportunity PRO systematically evaluates multi-dimensional signals to uncover hidden evergreen opportunities and content vacuums.</li>
+        <li><b>Technical Highlights:</b>
+          <ul>
+            <li><b>Multi-Factor Non-Linear Opportunity Scoring (0–100):</b> Computes weighted opportunity scores across 10 component signals: Search Demand (20%), Competition Advantage (15%), Supply Deficit (15%), Content Quality Gap (15%), Evergreen Potential (10%), Small-Channel Proof (8%), Outlier Velocity (7%), Trend Stability (5%), Freshness Opportunity (3%), and Intent Clarity (2%).</li>
+            <li><b>"🔥 Find Me a Video to Make" Decision Engine:</b> Automated decision wizard executing the 7-point <i>Before You Make It</i> feasibility checklist (search demand proof, persistence, structural longevity, manageable supply, beatable incumbents, small-channel validation, and content gap isolation).</li>
+            <li><b>Outlier &amp; Content Vacuum Detectors:</b> Algorithmically flags high view-to-subscriber breakout videos (10x to 500x+ ratios) and highlights untapped topics with high estimated interest and near-zero recent competitor coverage.</li>
+            <li><b>Zero-Quota Optimization &amp; Resilient Architecture:</b> Live autocomplete client operating with zero YouTube API quota consumption, paired with official YouTube Data API v3 integration with automated rate-limiting guards and parameterized SQLite WAL persistence.</li>
+            <li><b>Modern Full-Stack Architecture:</b> Engineered with <b>React 18</b>, <b>TypeScript</b>, <b>Vite</b>, <b>TailwindCSS</b>, <b>Express.js</b>, and <b>Better-SQLite3</b>.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -211,6 +241,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
@@ -252,6 +283,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+      <img src="https://img.shields.io/badge/YouTube_API_v3-FF0000?style=flat-square&logo=youtube&logoColor=white" />
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
