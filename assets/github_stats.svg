@@ -75,7 +75,7 @@
     <g transform="translate(0, 104)">
       <path class="icon" d="M12 2l-6 3v5c0 4.42 3.58 8 6 9 2.42-1 6-4.58 6-9V5l-6-3zm-1 12l-3-3 1.41-1.41L11 11.17l4.59-4.58L17 8l-6 6z" />
       <text x="24" y="10" class="stat-label">Verified Test Coverage:</text>
-      <text x="210" y="10" class="stat-val" fill="#00F5D4">105 Automated Pytest Tests</text>
+      <text x="210" y="10" class="stat-val" fill="#00F5D4">195 Automated Tests (Zero-Lookahead)</text>
     </g>
   </g>
 </svg>
