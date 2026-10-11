@@ -7,7 +7,7 @@
 
 <!-- ANIMATED TYPING SUBHEADER -->
 <a href="https://github.com/anfor183">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Software+Engineer+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+MQL5;M.Sc.+in+Information+Systems+Management+(Middlesex+University);Algorithmic+Trading+Systems+%26+Quantitative+Risk+Engines;Event-Driven+Sports+Predictive+Analytics+%26+Poisson+Modeling;Stealth+Browser+Automation+%26+Distributed+Scraping+Pipelines;Open+to+Full-Time+Software+Engineering+%26+Developer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=780&lines=Software+Engineer+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+SQL;M.Sc.+in+Information+Systems+Management+(Middlesex+University);High-Throughput+APIs+%26+Distributed+Microservices;Event-Driven+Predictive+Analytics+%26+Poisson+Modeling;Deterministic+Browser+Automation+%26+Test+Pipelines;Open+to+Full-Time+Software+Engineering+%26+Developer+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -41,8 +41,8 @@ I am a **Software Engineer and Quantitative Systems Developer** with a formal ac
 
 Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Science (B.Sc. Hons)** in Information Technology and Business Information Systems from **Middlesex University**, together with an **Advanced Diploma in Software Engineering**, I combine deep theoretical systems knowledge with rigorous execution:
 
-- 🏗️ **End-to-End System Development**: Proven ability to architect, build, test, and ship complete software ecosystems solo—from high-throughput scraping pipelines and database storage to containerized FastAPI/React applications and native MetaTrader 5 trading engines.
-- 📐 **Data-Driven & Quantitative Focus**: Experienced in implementing mathematical and statistical models, including **Poisson distributions** for sports prediction, **macro factor decomposition** with Z-score standardization, and **risk-managed algorithmic trading robots**.
+- 🏗️ **End-to-End System Development**: Proven ability to architect, build, test, and ship complete software ecosystems solo—from high-throughput scraping pipelines and database storage to containerized FastAPI/React applications and desktop Electron telemetry suites.
+- 📐 **Data-Driven & Quantitative Focus**: Experienced in implementing mathematical and statistical models, including **Poisson distributions** for sports prediction, **macro factor decomposition** with Z-score standardization, and **high-throughput real-time execution engines**.
 - 🛡️ **Defensive & Reliable Engineering**: Prioritizing error resilience, connection health checks, exponential backoff retries, and automated test suites (`pytest`) to build software that runs stably in production environments.
 - ⚡ **AI-Augmented Velocity**: Expert at leveraging modern AI pair-programming and code-generation tools to accelerate prototyping, explore architectural patterns, and deliver robust software with high efficiency.
 
@@ -56,7 +56,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
 | **Relational Database Systems** | High-speed data caching and storage with **SQLite** (WAL mode) and **PostgreSQL**, managing datasets exceeding 390MB+ and hundreds of thousands of records. |
 | **Automated Testing & QA** | Writing comprehensive automated test suites (**Pytest**) with strict zero-lookahead bias audits and regression testing. |
 | **Browser Automation & Test Engineering** | Low-latency **Puppeteer** & **CDP** test/execution engines with Bézier trajectory input kinetics, session self-healing, and real-time Electron telemetry. |
-| **Algorithmic Trading & FinTech** | Developing native **MQL5 for MetaTrader 5** with centralized risk governance, automated broker timezone synchronization, and hard drawdown circuit breakers. |
+| **Desktop & Cross-Platform UI** | Developing high-performance desktop control centers in **Electron 29** & **React 18** with real-time WebSocket state management, telemetry charts, and SQLite WAL data persistence. |
 | **DevOps & Infrastructure** | Containerization with **Docker** and **Docker Compose**, headless Linux server deployment, Git version control, and CI/CD pipelines. |
 
 ---
@@ -138,30 +138,8 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
     </td>
   </tr>
 
-  <!-- ROW 2: PROPER EA & PUPPETEER -->
+  <!-- ROW 2: NEXUS VFL & WHISPER TRANSCRIBE AI -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">📈 Proper-EA-Dream: Multi-Market Quantitative Risk Suite</h3>
-      <p><b>Algorithmic Trading & Risk Governance System for MetaTrader 5 (MQL5)</b></p>
-      <p>
-        <a href="https://github.com/anfor183/Proper-EA-Dream-PropFirm-Portfolio">
-          <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
-        </a>
-        <img src="https://img.shields.io/badge/Platform-MetaTrader%205-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Language-Native%20MQL5-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Compliance-Strict%20Risk%20Rails-green?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>Engineering Problem:</b> Managing concurrent algorithmic positions across volatile asset classes requires centralized, thread-safe risk rails to prevent capital breach.</li>
-        <li><b>Technical Highlights:</b>
-          <ul>
-            <li>Simultaneous execution across <code>XAUUSD (Gold)</code>, <code>NAS100</code>, <code>USA500</code>, and <code>GBPUSD</code> within a unified process.</li>
-            <li>Real-time automated broker timezone and Daylight Saving Time (DST) synchronization to gate high-spread rollover windows (21:55–22:15 UTC).</li>
-            <li>Hard daily circuit breakers and maximum drawdown cutoffs enforcing strict capital preservation.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
     <td width="50%" valign="top">
       <h3 align="left">🤖 Nexus VFL: Automated Browser Execution Engine &amp; Control Dashboard</h3>
       <p><b>Deterministic Browser Test/Execution Pipeline &amp; Real-Time Telemetry Management Console</b></p>
@@ -184,38 +162,26 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
         </li>
       </ul>
     </td>
-  </tr>
-
-  <!-- ROW 3: TRIPLE EA & FORTUNE4X TESTER PRO -->
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ Triple-EA Multi-Strategy Portfolio Engine</h3>
-      <p><b>Multi-Strategy Quantitative Execution Suite with Centralized Risk Governor</b></p>
+      <h3 align="left">🎙️ WhisperTranscribeAI: GPU-Accelerated Audio Intelligence Platform</h3>
+      <p><b>High-Accuracy Offline Speech-to-Text Transcription &amp; Timestamping Desktop Suite</b></p>
       <p>
-        <a href="https://github.com/anfor183/Triple-EA-PropFirm-Portfolio">
+        <a href="https://github.com/anfor183/WhisperTranscribeAI">
           <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
         </a>
-        <img src="https://img.shields.io/badge/Language-MQL5-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Validation-12%2B%20Years%20Tick-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Model-OpenAI%20Whisper-00A67E?style=flat-square&logo=openai" />
+        <img src="https://img.shields.io/badge/Acceleration-PyTorch%20CUDA-EE4C2C?style=flat-square&logo=pytorch" />
+        <img src="https://img.shields.io/badge/Language-Python%203.12-3776AB?style=flat-square&logo=python" />
       </p>
       <ul>
-        <li><b>Architecture:</b> Coordinates three orthogonal strategies (US500 Donchian breakout, Opening Wick Arbitrage, and USDJPY FX momentum) governed by a central thread-safe risk manager (`PortfolioRiskManager.mqh`).</li>
-        <li><b>Execution Resilience:</b> Automatic order filling fallback logic (<code>FOK &rarr; IOC &rarr; RETURN</code>) with exponential backoff retries and 1.5% max concurrent portfolio risk ceiling.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🧪 Fortune4X Tester Pro: Market Replay Simulator &amp; Execution Engine</h3>
-      <p><b>High-Performance Manual Backtesting &amp; Visual Replay Platform for MetaTrader 5 (MT5)</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Platform-MetaTrader%205-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Language-MQL5%20%7C%20Python-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Feature-Visual%20Execution%20Ladder-00f5d4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Module-SMC%20Detector-yellow?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>Interactive Execution Ladder:</b> Visual on-chart order handles with independent drag handles (Cyan Entry line, Crimson Stop Loss with dynamic dollar risk, Emerald Take Profit with real-time Risk-to-Reward ratio).</li>
-        <li><b>Precision Market Replay:</b> Bar-by-bar candle stepping, collision-free hotkeys, and variable playback speeds for discretionary and systematic setup validation.</li>
-        <li><b>Smart Money Concepts (SMC):</b> Integrated algorithmic detection for Order Blocks (OB), Fair Value Gaps (FVG), Market Structure Breaks (BOS/CHoCH), and Liquidity Sweeps.</li>
+        <li><b>Engineering Problem:</b> Cloud transcription APIs introduce recurring token costs, network latency, and privacy compliance risks for large-volume enterprise audio pipelines.</li>
+        <li><b>Technical Highlights:</b>
+          <ul>
+            <li><b>Native Hardware GPU Acceleration:</b> Harnesses OpenAI's Whisper model architecture (<code>large-v3-turbo</code>) accelerated locally via <b>PyTorch CUDA</b> and FP16 half-precision computation for near-zero latency inference.</li>
+            <li><b>Asynchronous Processing Pipeline:</b> Thread-safe background worker queues preventing UI freezes during long audio/video ingestion and VAD (Voice Activity Detection) segmentation.</li>
+            <li><b>Multi-Format Subtitle Export:</b> Automated transcription alignment generating formatted <code>.srt</code>, <code>.vtt</code>, <code>.txt</code>, and timestamped JSON exports with speaker diarization support.</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
@@ -236,7 +202,6 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/MQL5-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
@@ -271,13 +236,14 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
     </td>
   </tr>
   <tr>
-    <td><b>Quantitative & Modeling</b></td>
+    <td><b>Data Science & AI</b></td>
     <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black" />
       <img src="https://img.shields.io/badge/Poisson_Distributions-00f5d4?style=flat-square" />
-      <img src="https://img.shields.io/badge/MetaTrader_5-FF8000?style=flat-square&logo=tradingview&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -285,6 +251,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -330,7 +297,8 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
 
 I am actively open to:
 - 💼 **Full-Time Software Engineer Roles** (Python, Backend, Full-Stack, Automation)
-- 📈 **Quantitative Developer / FinTech Roles** (Algorithmic Trading, Strategy Implementation, Risk Systems)
+- 🧪 **QA & Software Test Automation Roles** (SDET, Deterministic Browser Automation, Test Suites)
+- 📊 **Data & Quantitative Engineering Roles** (Statistical Modeling, High-Throughput Ingestion Pipelines)
 - 🌍 **Work Mode**: Open to **Remote Roles Globally**, Hybrid, or Relocation.
 
 <div align="center">

@@ -33,7 +33,7 @@ git add -A
 $status = git status --porcelain
 if ($status) {
     Write-Host "[3/4] Committing files..." -ForegroundColor Yellow
-    git commit -m "feat: launch institutional quantitative systems & algorithmic trading profile landing page"
+    git commit -m "feat: launch institutional software engineering and quantitative systems profile landing page"
 } else {
     Write-Host "[3/4] Working tree clean, no new changes to commit." -ForegroundColor Green
 }
