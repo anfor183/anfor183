@@ -47,21 +47,21 @@
     <g transform="translate(0, 0)">
       <path class="icon" d="M10.5 4.5a3 3 0 10-5.83 1H2v2h2.67a3 3 0 105.83 1H14V6.5h-3.5zM7.5 7.5a1.5 1.5 0 110-3 1.5 1.5 0 010 3z" />
       <text x="24" y="10" class="stat-label">Total Lifetime Commits:</text>
-      <text x="210" y="10" class="stat-val">320</text>
+      <text x="210" y="10" class="stat-val">514</text>
     </g>
 
     <!-- Commits 2026 -->
     <g transform="translate(0, 26)">
       <path class="icon" d="M3 3h10v2H3V3zm0 4h10v2H3V7zm0 4h7v2H3v-2z" />
       <text x="24" y="10" class="stat-label">2026 Active Commits:</text>
-      <text x="210" y="10" class="stat-val">257</text>
+      <text x="210" y="10" class="stat-val">447</text>
     </g>
 
     <!-- Repositories Total -->
     <g transform="translate(0, 52)">
       <path class="icon" d="M2 3a1 1 0 011-1h10a1 1 0 011 1v10a1 1 0 01-1 1H3a1 1 0 01-1-1V3zm2 1v8h8V4H4z" />
       <text x="24" y="10" class="stat-label">Total Repositories:</text>
-      <text x="210" y="10" class="stat-val">28 (17 Private, 11 Public)</text>
+      <text x="210" y="10" class="stat-val">35 (23 Private, 12 Public)</text>
     </g>
 
     <!-- Pull Requests -->
@@ -75,7 +75,7 @@
     <g transform="translate(0, 104)">
       <path class="icon" d="M12 2l-6 3v5c0 4.42 3.58 8 6 9 2.42-1 6-4.58 6-9V5l-6-3zm-1 12l-3-3 1.41-1.41L11 11.17l4.59-4.58L17 8l-6 6z" />
       <text x="24" y="10" class="stat-label">Verified Test Coverage:</text>
-      <text x="210" y="10" class="stat-val" fill="#00F5D4">195 Automated Tests (Zero-Lookahead)</text>
+      <text x="210" y="10" class="stat-val" fill="#00F5D4">245+ Automated Tests (Zero-Lookahead)</text>
     </g>
   </g>
 </svg>

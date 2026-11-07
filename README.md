@@ -43,7 +43,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
 
 - 🏗️ **End-to-End System Development**: Proven ability to architect, build, test, and ship complete software ecosystems solo—from high-throughput scraping pipelines and database storage to containerized FastAPI/React applications and desktop Electron telemetry suites.
 - 📐 **Data-Driven & Quantitative Focus**: Experienced in implementing mathematical and statistical models, including **Poisson distributions** for sports prediction, **macro factor decomposition** with Z-score standardization, and **high-throughput real-time execution engines**.
-- 🛡️ **Defensive & Reliable Engineering**: Prioritizing error resilience, connection health checks, exponential backoff retries, and automated test suites (`pytest`) to build software that runs stably in production environments.
+- 🛡️ **Defensive & Reliable Engineering**: Prioritizing error resilience, connection health checks, exponential backoff retries, and automated test suites (`pytest`, `jest`) to build software that runs stably in production environments.
 - ⚡ **AI-Augmented Velocity**: Expert at leveraging modern AI pair-programming and code-generation tools to accelerate prototyping, explore architectural patterns, and deliver robust software with high efficiency.
 
 ---
@@ -52,10 +52,11 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
 
 | Core Capability | Production Implementation Details |
 | :--- | :--- |
-| **Backend & API Design** | Clean, modular microservices in **FastAPI** and **Node.js** with typed schemas (**Pydantic**), REST endpoints, and WebSockets. |
+| **Backend & API Design** | Clean, modular microservices in **FastAPI** and **Node.js** with typed schemas (**Pydantic**), REST endpoints, Server-Sent Events (SSE), and WebSockets. |
 | **Relational Database Systems** | High-speed data caching and storage with **SQLite** (WAL mode) and **PostgreSQL**, managing datasets exceeding 390MB+ and hundreds of thousands of records. |
-| **Automated Testing & QA** | Writing comprehensive automated test suites (**Pytest**) with strict zero-lookahead bias audits and regression testing. |
-| **Browser Automation & Test Engineering** | Low-latency **Puppeteer** & **CDP** test/execution engines with Bézier trajectory input kinetics, session self-healing, and real-time Electron telemetry. |
+| **Automated Testing & QA** | Writing comprehensive automated test suites (**Pytest**, **Jest**) with strict zero-lookahead bias audits and regression testing across **245+ verified automated tests**. |
+| **Browser Automation & Test Engineering** | Low-latency **Puppeteer** & **Chrome DevTools Protocol (CDP)** test/execution engines with Bézier trajectory kinetics, session self-healing, and real-time Electron telemetry. |
+| **Real-Time Data Pipelines & WebSockets** | Streaming WebSocket frame decoders, distributed PM2 microservices, automated ticket settlement engines, and live broadcast dispatchers in **Virtual Football Signals**. |
 | **Content Intelligence & SEO Analytics** | Multi-factor opportunity scoring algorithms (0–100), automated competitor beatability evaluation, zero-quota autocomplete ingestion, and production SQLite WAL persistence in **TubeOpportunity PRO**. |
 | **Desktop & Cross-Platform UI** | Developing high-performance desktop control centers in **Electron 29** & **React 18** with real-time WebSocket state management, telemetry charts, and SQLite WAL data persistence. |
 | **DevOps & Infrastructure** | Containerization with **Docker** and **Docker Compose**, headless Linux server deployment, Git version control, and CI/CD pipelines. |
@@ -119,7 +120,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       <h3 align="left">⚽ Event-Driven Football Simulation &amp; Statistical Prediction Engine</h3>
       <p><b>Quantitative Probability Modeling Platform, Backtest Harness &amp; Desktop Operator Dashboard</b></p>
       <p>
-        <a href="https://github.com/anfor183/football-simulation-prediction-engine">
+        <a href="https://github.com/anfor183/football-prediction-community">
           <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
         </a>
         <img src="https://img.shields.io/badge/Models-Poisson%20%2B%20ML-10b981?style=flat-square" />
@@ -139,15 +140,16 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
     </td>
   </tr>
 
-  <!-- ROW 2: NEXUS VFL & WHISPER TRANSCRIBE AI -->
+  <!-- ROW 2: NEXUS VFL & VIRTUAL FOOTBALL SIGNALS -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🤖 Nexus VFL: Automated Browser Execution Engine &amp; Control Dashboard</h3>
       <p><b>Deterministic Browser Test/Execution Pipeline &amp; Real-Time Telemetry Management Console</b></p>
       <p>
-        <a href="https://github.com/anfor183/bettorVFL-Executor">
+        <a href="https://github.com/anfor183/bettorvfl-executor-community">
           <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
         </a>
+        <img src="https://img.shields.io/badge/Tests-50%20Passing-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/Engine-Puppeteer%20%7C%20CDP-00f5d4?style=flat-square&logo=puppeteer" />
         <img src="https://img.shields.io/badge/Desktop-Electron%2029%20%2B%20React-61dafb?style=flat-square&logo=electron" />
         <img src="https://img.shields.io/badge/Storage-Better--SQLite3-2496ed?style=flat-square&logo=sqlite" />
@@ -159,6 +161,57 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
             <li><b>Deterministic CDP Dispatching:</b> Employs low-level <b>Chrome DevTools Protocol (CDP)</b> event synthesis (<code>Input.dispatchMouseEvent</code>, <code>Input.dispatchKeyEvent</code>) with cubic Bézier trajectory physics and micro-jitter delays to ensure authentic, non-synthetic UI validation.</li>
             <li><b>Session Self-Healing &amp; Resilience:</b> Autonomous recovery mechanisms that detect and repair corrupt browser preferences, handle modal dismissals, and retry dropped WebSocket telemetry streams.</li>
             <li><b>Nexus Desktop Control Center (<code>dashboard/</code>):</b> Full-stack desktop dashboard built with <b>Electron 29</b>, <b>React 18</b>, and <b>TailwindCSS</b> providing live match telemetry, capital preservation guards (Stop-Loss/Take-Profit), and VPS process management.</li>
+            <li><b>Regression Testing:</b> Backed by <b>50 automated regression tests</b> validating ticket receipt observation, physical execution gates, and submission recovery journals.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📡 Virtual Football Signals: Autonomous Scraping &amp; Telemetry Pipeline</h3>
+      <p><b>Real-Time WebSocket Stream Interception, High-Frequency Prediction Microservices &amp; Linux VPS Topology</b></p>
+      <p>
+        <a href="https://github.com/anfor183/virtualfootballsignals-community">
+          <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/Architecture-PM2%20Multi--Process-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/Speed-%3C2ms%20REST%20%2F%20SSE-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20WebSockets-2496ed?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Engineering Problem:</b> Live odds capture and high-frequency automated decision engines require non-blocking WebSocket packet interception, deterministic round synchronization, and sub-2ms low-latency state delivery to downstream dashboards and alerting bots without dropped events or voids.</li>
+        <li><b>Technical Highlights:</b>
+          <ul>
+            <li><b>Stealth WebSocket Interception:</b> Headless Chrome Puppeteer companion intercepting live bookmaker WebSocket streams (<code>/eventBlocks/event/data</code> &amp; <code>result</code>) with sub-millisecond DOM extraction.</li>
+            <li><b>Dedicated Remote Microservice (<code>sporty-api</code>):</b> Ultra-high-speed Node.js service running on Port 4000 delivering real-time predictions, Server-Sent Events (SSE), and WebSockets with <b>&lt;2ms response latency</b>.</li>
+            <li><b>Automated Settlement &amp; Zero-Void Tracking:</b> Background worker autonomously tracking pending wagers, validating scorelines against real-time feeds, ensuring verified <b>Zero Voids</b>, and dispatching curated instant signals to Telegram.</li>
+            <li><b>Production PM2 Topology:</b> Managed multi-process cluster coordinating live scrapers, ML auto-training daemons, telemetry servers, and automated cloud sync pipelines.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- ROW 3: TUBEEOPPORTUNITY PRO & WHISPER TRANSCRIBE AI -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">📊 TubeOpportunity PRO: YouTube Evergreen Keyword &amp; Virality Intelligence Platform</h3>
+      <p><b>Production-Grade YouTube Intelligence, Multi-Factor Opportunity Scoring &amp; Quantitative Creator Decision-Support System</b></p>
+      <p>
+        <a href="https://github.com/anfor183/tube-opportunity-pro">
+          <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/Algorithm-Multi--Factor%20Scoring%20(0--100)-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20React%2018%20%7C%20TypeScript-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/Storage-SQLite%20WAL-2496ed?style=flat-square&logo=sqlite" />
+      </p>
+      <ul>
+        <li><b>Engineering Problem:</b> Content creators, quantitative media teams, and SEO strategists struggle with noisy search volume metrics that fail to predict long-term video viability, competitive saturation, or small-creator beatability. TubeOpportunity PRO systematically evaluates multi-dimensional signals to uncover hidden evergreen opportunities and content vacuums.</li>
+        <li><b>Technical Highlights:</b>
+          <ul>
+            <li><b>Multi-Factor Non-Linear Opportunity Scoring (0–100):</b> Computes weighted opportunity scores across 10 component signals: Search Demand (20%), Competition Advantage (15%), Supply Deficit (15%), Content Quality Gap (15%), Evergreen Potential (10%), Small-Channel Proof (8%), Outlier Velocity (7%), Trend Stability (5%), Freshness Opportunity (3%), and Intent Clarity (2%).</li>
+            <li><b>"🔥 Find Me a Video to Make" Decision Engine:</b> Automated decision wizard executing the 7-point <i>Before You Make It</i> feasibility checklist (search demand proof, persistence, structural longevity, manageable supply, beatable incumbents, small-channel validation, and content gap isolation).</li>
+            <li><b>Outlier &amp; Content Vacuum Detectors:</b> Algorithmically flags high view-to-subscriber breakout videos (10x to 500x+ ratios) and highlights untapped topics with high estimated interest and near-zero recent competitor coverage.</li>
+            <li><b>Zero-Quota Optimization &amp; Resilient Architecture:</b> Live autocomplete client operating with zero YouTube API quota consumption, paired with official YouTube Data API v3 integration with automated rate-limiting guards and parameterized SQLite WAL persistence.</li>
           </ul>
         </li>
       </ul>
@@ -172,7 +225,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
         </a>
         <img src="https://img.shields.io/badge/Model-OpenAI%20Whisper-00A67E?style=flat-square&logo=openai" />
         <img src="https://img.shields.io/badge/Acceleration-PyTorch%20CUDA-EE4C2C?style=flat-square&logo=pytorch" />
-        <img src="https://img.shields.io/badge/Language-Python%203.12-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/GUI-PyQt6%20Desktop-41CD52?style=flat-square&logo=qt" />
       </p>
       <ul>
         <li><b>Engineering Problem:</b> Cloud transcription APIs introduce recurring token costs, network latency, and privacy compliance risks for large-volume enterprise audio pipelines.</li>
@@ -181,35 +234,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
             <li><b>Native Hardware GPU Acceleration:</b> Harnesses OpenAI's Whisper model architecture (<code>large-v3-turbo</code>) accelerated locally via <b>PyTorch CUDA</b> and FP16 half-precision computation for near-zero latency inference.</li>
             <li><b>Asynchronous Processing Pipeline:</b> Thread-safe background worker queues preventing UI freezes during long audio/video ingestion and VAD (Voice Activity Detection) segmentation.</li>
             <li><b>Multi-Format Subtitle Export:</b> Automated transcription alignment generating formatted <code>.srt</code>, <code>.vtt</code>, <code>.txt</code>, and timestamped JSON exports with speaker diarization support.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- ROW 3: TUBEEOPPORTUNITY PRO (FEATURED FULL-WIDTH) -->
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="left">📊 TubeOpportunity PRO: YouTube Evergreen Keyword &amp; Virality Intelligence Platform</h3>
-      <p><b>Production-Grade YouTube Intelligence, Multi-Factor Opportunity Scoring &amp; Quantitative Creator Decision-Support System</b></p>
-      <p>
-        <a href="https://github.com/anfor183/tube-opportunity-pro">
-          <img src="https://img.shields.io/badge/Repository-Source%20Code-00f5d4?style=flat-square&logo=github" />
-        </a>
-        <img src="https://img.shields.io/badge/Algorithm-Multi--Factor%20Scoring%20(0--100)-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20React%2018%20%7C%20TypeScript-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/Storage-SQLite%20WAL-2496ed?style=flat-square&logo=sqlite" />
-        <img src="https://img.shields.io/badge/API-YouTube%20Data%20v3%20%2B%20Zero--Quota%20Client-ff0000?style=flat-square&logo=youtube" />
-      </p>
-      <ul>
-        <li><b>Engineering Problem:</b> Content creators, quantitative media teams, and SEO strategists struggle with noisy search volume metrics that fail to predict long-term video viability, competitive saturation, or small-creator beatability. TubeOpportunity PRO systematically evaluates multi-dimensional signals to uncover hidden evergreen opportunities and content vacuums.</li>
-        <li><b>Technical Highlights:</b>
-          <ul>
-            <li><b>Multi-Factor Non-Linear Opportunity Scoring (0–100):</b> Computes weighted opportunity scores across 10 component signals: Search Demand (20%), Competition Advantage (15%), Supply Deficit (15%), Content Quality Gap (15%), Evergreen Potential (10%), Small-Channel Proof (8%), Outlier Velocity (7%), Trend Stability (5%), Freshness Opportunity (3%), and Intent Clarity (2%).</li>
-            <li><b>"🔥 Find Me a Video to Make" Decision Engine:</b> Automated decision wizard executing the 7-point <i>Before You Make It</i> feasibility checklist (search demand proof, persistence, structural longevity, manageable supply, beatable incumbents, small-channel validation, and content gap isolation).</li>
-            <li><b>Outlier &amp; Content Vacuum Detectors:</b> Algorithmically flags high view-to-subscriber breakout videos (10x to 500x+ ratios) and highlights untapped topics with high estimated interest and near-zero recent competitor coverage.</li>
-            <li><b>Zero-Quota Optimization &amp; Resilient Architecture:</b> Live autocomplete client operating with zero YouTube API quota consumption, paired with official YouTube Data API v3 integration with automated rate-limiting guards and parameterized SQLite WAL persistence.</li>
-            <li><b>Modern Full-Stack Architecture:</b> Engineered with <b>React 18</b>, <b>TypeScript</b>, <b>Vite</b>, <b>TailwindCSS</b>, <b>Express.js</b>, and <b>Better-SQLite3</b>.</li>
+            <li><b>Smart Hardware Fallback:</b> Automatically routes to multi-threaded CPU processing (INT8) if an NVIDIA GPU is not detected.</li>
           </ul>
         </li>
       </ul>
@@ -244,6 +269,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Server--Sent_Events-00f5d4?style=flat-square" />
       <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
     </td>
   </tr>
@@ -270,6 +296,7 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
     <td><b>Data Science & AI</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI_Whisper-00A67E?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -283,8 +310,11 @@ Holding both a **Master of Science (M.Sc.) with Merit** and a **Bachelor of Scie
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chrome_DevTools_Protocol-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
       <img src="https://img.shields.io/badge/YouTube_API_v3-FF0000?style=flat-square&logo=youtube&logoColor=white" />
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
